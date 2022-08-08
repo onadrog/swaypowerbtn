@@ -1,0 +1,16 @@
+{
+  "name": "swaypowerbtn",
+  "outputfilename": "swaypowerbtn",
+  "frontend:install": "pnpm install",
+  "frontend:build": "pnpm run build",
+  "frontend:dev:watcher": "pnpm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "onadrog",
+    "email": "sebastien.gordano@gmail.com"
+  },
+  "version": "0.0.1",
+  "info": {
+    "productVersion": "0.0.1"
+  }
+}
